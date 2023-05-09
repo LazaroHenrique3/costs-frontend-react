@@ -1,0 +1,33 @@
+.container {
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    padding-top: 80px;
+}
+
+.min_height {
+    min-height: 75%;
+}
+
+.start {
+    justify-content: flex-start;
+}
+
+.column{
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.no_padding_top{
+    padding-top: 0px;
+}
+
+@media (max-width: 574px){
+    .start{
+        justify-content: center;
+    }
+}
