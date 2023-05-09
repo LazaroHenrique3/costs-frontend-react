@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Costs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto frontend para praticar React. Inicialmente, este projeto foi construído seguindo as aulas do curso de React do canal **Hora de Codar**, que eu havia concluído alguns meses atrás. No entanto, conforme fui aprendendo novas coisas, decidi refatorar o projeto, criando uma API de backend do zero além de usar o axios e adicionar algumas pequenas funcionalidades e validações utilizando o Yup e HookForm.
 
-## Available Scripts
+## 👀 Ver deploy! 👉 <a href="https://costs-frontend-react.vercel.app/">Costs</a>
 
-In the project directory, you can run:
+## 🖼 Screenshots do projeto
 
-### `npm start`
+### #1
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/78514404/236967964-976dfa9d-f963-4abf-95ec-593ecb38d81c.PNG" alt="Costs" width="800"/>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### #2
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/78514404/236967951-9add824a-b130-4141-9bf0-3a0c4e8d8639.PNG" alt="Costs" width="800"/>
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### #3
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/78514404/236967954-f51407a0-bf7d-4c69-9c25-6712b37b06c0.PNG" alt="Costs" width="800"/>
+</p>
 
-### `npm test`
+### #4
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/78514404/236967955-e04021e9-e8b5-47c7-8aab-e8ee2243dc6d.PNG" alt="Costs" width="800"/>
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### #5
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/78514404/236967957-d9e79b7d-0bb3-483d-b044-029062bbc6f4.PNG" alt="Costs" width="800"/>
+</p>
 
-### `npm run build`
+### #6
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/78514404/236967959-eff1ead2-257a-4e94-8834-f21435c53ed2.PNG" alt="Costs" width="800"/>
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### #7
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/78514404/236967962-bb3a9231-4f03-4f63-8ebc-da30eb1c00e8.PNG" alt="Pokedex" width="800"/>
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Para rodar o projeto utilize o comando (**npm start**) 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Construído com
 
-### `npm run eject`
+* **React**
+* **Node(Backend)**
+* **Mongo(Banco de dados)**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ✒️ Autor
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* **Lázaro Henrique**  
