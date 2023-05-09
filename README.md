@@ -41,7 +41,7 @@ Projeto fullstack para praticar React. Inicialmente, este projeto foi construíd
   <img align="center" src="https://user-images.githubusercontent.com/78514404/236967962-bb3a9231-4f03-4f63-8ebc-da30eb1c00e8.PNG" alt="Pokedex" width="800"/>
 </p>
 
-# Para rodar o projeto utilize o comando (**npm start**) 
+# Para rodar o projeto utilize o comando (**npm start**)  
 
 ## 🛠️ Construído com
 
