@@ -1,6 +1,6 @@
 # Costs
 
-Projeto frontend para praticar React. Inicialmente, este projeto foi construído seguindo as aulas do curso de React do canal **Hora de Codar**, que eu havia concluído alguns meses atrás. No entanto, conforme fui aprendendo novas coisas, decidi refatorar o projeto, criando uma API de backend do zero além de usar o axios e adicionar algumas pequenas funcionalidades e validações utilizando o Yup e HookForm.
+Projeto fullstack para praticar React. Inicialmente, este projeto foi construído seguindo as aulas do curso de React do canal **Hora de Codar**, que eu havia concluído alguns meses atrás. No entanto, conforme fui aprendendo novas coisas, decidi refatorar o projeto, criando uma API de backend do zero além de usar o axios e adicionar algumas pequenas funcionalidades e validações utilizando o Yup e HookForm.
 
 ## 👀 Ver deploy! 👉 <a href="https://costs-frontend-react.vercel.app/">Costs</a>
 
